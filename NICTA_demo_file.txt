@@ -1,1 +1,1 @@
-input("What are you doing for work experince? ")
+input("What are you doing for work experience? ")
